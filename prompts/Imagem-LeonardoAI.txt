@@ -1,0 +1,7 @@
+Model: Nano Banana
+Prompt Enhance: Auto
+Style: Illustration
+
+Prompt: Epic fantasy book cover, mystical arcane snake made of glowing fractal code, emerald and electric blue tones, ancient floating runes, data magic swirling in the air, futuristic high-fantasy aesthetic, reminiscent of Genshin Impact and Honkai Star Rail, cinematic lighting, dramatic energy particles, detailed environment, ornate arcane symbols, ethereal atmosphere, ultra-detailed, 8k concept art illustration, perfect for a fantasy data-science themed novel
+Negative prompt: low quality, blurry, pixelated, watermark, text, title, signature, distorted anatomy, cartoonish, childish, 3d render, cyberpunk urban city, steampunk, sci-fi robots, modern clothes, glitch, broken image, duplicate serpent
+

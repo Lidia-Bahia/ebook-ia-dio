@@ -1,0 +1,4 @@
+Prompt 1: Crie um texto para o ebook baseado no título que fizemos mais cedo
+
+Prompt 2 (após a geração do resultado do prompt 1): Faça algo menos místico e mais prático, voltado para ciência de dados, falando um pouco sobre os pacotes de geração de gráficos e do SQL.
+
